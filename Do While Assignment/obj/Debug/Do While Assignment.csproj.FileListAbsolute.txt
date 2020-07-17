@@ -1,0 +1,7 @@
+C:\Users\Craig\Desktop\C#Projects\Do While Assignment\bin\Debug\Do While Assignment.exe.config
+C:\Users\Craig\Desktop\C#Projects\Do While Assignment\bin\Debug\Do While Assignment.exe
+C:\Users\Craig\Desktop\C#Projects\Do While Assignment\bin\Debug\Do While Assignment.pdb
+C:\Users\Craig\Desktop\C#Projects\Do While Assignment\obj\Debug\Do While Assignment.csprojAssemblyReference.cache
+C:\Users\Craig\Desktop\C#Projects\Do While Assignment\obj\Debug\Do While Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Craig\Desktop\C#Projects\Do While Assignment\obj\Debug\Do While Assignment.exe
+C:\Users\Craig\Desktop\C#Projects\Do While Assignment\obj\Debug\Do While Assignment.pdb
