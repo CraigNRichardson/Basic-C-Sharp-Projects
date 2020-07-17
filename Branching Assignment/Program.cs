@@ -13,8 +13,10 @@ namespace Branching_Assignment
             if (weight > 50)
             {
                 Console.WriteLine("Your package is too heavy to ship via Package Express.");
+                Console.WriteLine("Try again.");
+                Main();
             }
-            
+            Console.WriteLine("Please enter the package width:");
             int width = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Please enter the package height:");
             int height = Convert.ToInt32(Console.ReadLine());
