@@ -1,0 +1,7 @@
+C:\Users\Craig\Desktop\C#Projects\Strings And Stringbuilder 125\bin\Debug\Strings And Stringbuilder 125.exe.config
+C:\Users\Craig\Desktop\C#Projects\Strings And Stringbuilder 125\bin\Debug\Strings And Stringbuilder 125.exe
+C:\Users\Craig\Desktop\C#Projects\Strings And Stringbuilder 125\bin\Debug\Strings And Stringbuilder 125.pdb
+C:\Users\Craig\Desktop\C#Projects\Strings And Stringbuilder 125\obj\Debug\Strings And Stringbuilder 125.csprojAssemblyReference.cache
+C:\Users\Craig\Desktop\C#Projects\Strings And Stringbuilder 125\obj\Debug\Strings And Stringbuilder 125.csproj.CoreCompileInputs.cache
+C:\Users\Craig\Desktop\C#Projects\Strings And Stringbuilder 125\obj\Debug\Strings And Stringbuilder 125.exe
+C:\Users\Craig\Desktop\C#Projects\Strings And Stringbuilder 125\obj\Debug\Strings And Stringbuilder 125.pdb
