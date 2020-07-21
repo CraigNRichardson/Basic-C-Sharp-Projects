@@ -112,7 +112,7 @@ namespace Iteration
 
                 foreach (int k in foundVicePresident)
                 {
-                    Console.WriteLine(k);
+                    Console.WriteLine(vpChoice + " index #: " + k);
                 }
             }
             else
