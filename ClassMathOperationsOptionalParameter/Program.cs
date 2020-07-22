@@ -23,7 +23,7 @@ namespace ClassMathOperationsOptionalParameter
             }
             else
             {
-                result = calc.Add(num, num2);
+                result = calc.Add(num);
             }
 
             Console.WriteLine(result);
