@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMathOperationsVoidMethod_166", "ClassMathOperationsVoidMethod_166.csproj", "{766CDAA4-27B4-451B-8023-CD68814FB45B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{766CDAA4-27B4-451B-8023-CD68814FB45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766CDAA4-27B4-451B-8023-CD68814FB45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766CDAA4-27B4-451B-8023-CD68814FB45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766CDAA4-27B4-451B-8023-CD68814FB45B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AF6481E-4479-43BF-A999-85C09AA18AD8}
+	EndGlobalSection
+EndGlobal
