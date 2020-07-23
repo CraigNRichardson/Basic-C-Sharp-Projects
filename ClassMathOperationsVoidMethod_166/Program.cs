@@ -11,8 +11,8 @@ namespace ClassMathOperationsVoidMethod_166
         static void Main(string[] args)
         {
             Math math = new Math();
-            math.Math1();
-            math.Math2();
+            math.Math1(4);
+            math.Math2(3,4);
             Console.ReadLine();
 
         }

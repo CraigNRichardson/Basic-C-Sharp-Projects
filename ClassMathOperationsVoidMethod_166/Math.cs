@@ -9,17 +9,17 @@ namespace ClassMathOperationsVoidMethod_166
     public class Math
     {
         
-        int num1, num2 = 4;
+       
 
-        public void Math1()
+        public void Math1(int num2)
         {
             
             Console.WriteLine("The Second number is: " + num2);
         }
 
-        public void Math2()
+        public void Math2(int num1, int num2)
         {
-            this.num1 = 3;
+            
             int num3 = num1 * num2;
             Console.WriteLine("The Result is {0}", num3);
         }
