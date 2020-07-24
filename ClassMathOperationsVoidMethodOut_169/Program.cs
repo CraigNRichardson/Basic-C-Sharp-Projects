@@ -16,7 +16,7 @@ namespace ClassMathOperationsVoidMethodOut_169
             div.DivBy2(num1, out int result);
             Console.WriteLine(num1 + " divided by 2 = {0}", result);
             Console.ReadLine();
-            Div.DivByX(num1, out decimal result1, out decimal result2);
+            Div.DivByX(num1, out int result1, out int result2);
             Console.ReadLine();
         }
     }
