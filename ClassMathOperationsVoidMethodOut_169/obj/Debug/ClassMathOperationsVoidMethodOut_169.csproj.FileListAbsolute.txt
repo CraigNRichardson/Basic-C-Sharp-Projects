@@ -1,0 +1,7 @@
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperationsVoidMethodOut_169\bin\Debug\ClassMathOperationsVoidMethodOut_169.exe.config
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperationsVoidMethodOut_169\bin\Debug\ClassMathOperationsVoidMethodOut_169.exe
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperationsVoidMethodOut_169\bin\Debug\ClassMathOperationsVoidMethodOut_169.pdb
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperationsVoidMethodOut_169\obj\Debug\ClassMathOperationsVoidMethodOut_169.csprojAssemblyReference.cache
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperationsVoidMethodOut_169\obj\Debug\ClassMathOperationsVoidMethodOut_169.csproj.CoreCompileInputs.cache
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperationsVoidMethodOut_169\obj\Debug\ClassMathOperationsVoidMethodOut_169.exe
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperationsVoidMethodOut_169\obj\Debug\ClassMathOperationsVoidMethodOut_169.pdb
