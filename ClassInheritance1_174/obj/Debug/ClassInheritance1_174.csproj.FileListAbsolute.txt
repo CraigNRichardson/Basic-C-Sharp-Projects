@@ -1,0 +1,7 @@
+C:\Users\Craig\Desktop\C#Projects\ClassInheritance1_174\bin\Debug\ClassInheritance1_174.exe.config
+C:\Users\Craig\Desktop\C#Projects\ClassInheritance1_174\bin\Debug\ClassInheritance1_174.exe
+C:\Users\Craig\Desktop\C#Projects\ClassInheritance1_174\bin\Debug\ClassInheritance1_174.pdb
+C:\Users\Craig\Desktop\C#Projects\ClassInheritance1_174\obj\Debug\ClassInheritance1_174.csprojAssemblyReference.cache
+C:\Users\Craig\Desktop\C#Projects\ClassInheritance1_174\obj\Debug\ClassInheritance1_174.csproj.CoreCompileInputs.cache
+C:\Users\Craig\Desktop\C#Projects\ClassInheritance1_174\obj\Debug\ClassInheritance1_174.exe
+C:\Users\Craig\Desktop\C#Projects\ClassInheritance1_174\obj\Debug\ClassInheritance1_174.pdb
