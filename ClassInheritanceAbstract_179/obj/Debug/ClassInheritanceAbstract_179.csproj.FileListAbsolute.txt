@@ -1,0 +1,6 @@
+C:\Users\Craig\Desktop\C#Projects\ClassInheritanceAbstract_179\bin\Debug\ClassInheritanceAbstract_179.exe.config
+C:\Users\Craig\Desktop\C#Projects\ClassInheritanceAbstract_179\bin\Debug\ClassInheritanceAbstract_179.exe
+C:\Users\Craig\Desktop\C#Projects\ClassInheritanceAbstract_179\bin\Debug\ClassInheritanceAbstract_179.pdb
+C:\Users\Craig\Desktop\C#Projects\ClassInheritanceAbstract_179\obj\Debug\ClassInheritanceAbstract_179.csproj.CoreCompileInputs.cache
+C:\Users\Craig\Desktop\C#Projects\ClassInheritanceAbstract_179\obj\Debug\ClassInheritanceAbstract_179.exe
+C:\Users\Craig\Desktop\C#Projects\ClassInheritanceAbstract_179\obj\Debug\ClassInheritanceAbstract_179.pdb
