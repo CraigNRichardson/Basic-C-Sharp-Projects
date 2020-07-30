@@ -1,0 +1,6 @@
+C:\Users\Craig\source\repos\DateTime 222\bin\Debug\DateTime 222.exe.config
+C:\Users\Craig\source\repos\DateTime 222\bin\Debug\DateTime 222.exe
+C:\Users\Craig\source\repos\DateTime 222\bin\Debug\DateTime 222.pdb
+C:\Users\Craig\source\repos\DateTime 222\obj\Debug\DateTime 222.csproj.CoreCompileInputs.cache
+C:\Users\Craig\source\repos\DateTime 222\obj\Debug\DateTime 222.exe
+C:\Users\Craig\source\repos\DateTime 222\obj\Debug\DateTime 222.pdb
