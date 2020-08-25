@@ -1,0 +1,7 @@
+C:\Users\Craig\Desktop\C#Projects\Try Catch 234\bin\Debug\Try Catch 234.exe.config
+C:\Users\Craig\Desktop\C#Projects\Try Catch 234\bin\Debug\Try Catch 234.exe
+C:\Users\Craig\Desktop\C#Projects\Try Catch 234\bin\Debug\Try Catch 234.pdb
+C:\Users\Craig\Desktop\C#Projects\Try Catch 234\obj\Debug\Try Catch 234.csprojAssemblyReference.cache
+C:\Users\Craig\Desktop\C#Projects\Try Catch 234\obj\Debug\Try Catch 234.csproj.CoreCompileInputs.cache
+C:\Users\Craig\Desktop\C#Projects\Try Catch 234\obj\Debug\Try Catch 234.exe
+C:\Users\Craig\Desktop\C#Projects\Try Catch 234\obj\Debug\Try Catch 234.pdb
