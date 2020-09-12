@@ -1,0 +1,89 @@
+﻿@{
+  Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{
+  ViewBag.Title = "Quote";
+}
+
+@model CarInsurance.Models.Insuree
+
+<div class="row-no-gutters m-3">
+  <div class="card mx-auto shadow">
+    <div class="card-header text-center">
+      <h2 class="m-0">Complete this form to receive your free quote!</h2>
+    </div>
+    <br />
+    <div class="card-body">
+      @using (Html.BeginForm("Premium", "Insuree", FormMethod.Post))
+      {
+      <div class="row">
+        <h4>First, we need some information about you.</h4><br />
+        <div class="form-group col-md-12">
+          @Html.LabelFor(model => model.FirstName, htmlAttributes: new { @class = "control-label col-md-2" })
+          <input name="FirstName" type="text" class="form-control" />
+        </div>
+
+        <div class="form-group col-md-12">
+          @Html.LabelFor(model => model.LastName, htmlAttributes: new { @class = "control-label col-md-2" })
+          <input name="LastName" type="text" class="form-control" />
+        </div>
+
+        <div class="form-group col-md-12">
+          @Html.LabelFor(model => model.EmailAddress, htmlAttributes: new { @class = "control-label col-md-2" })
+          <input name="EmailAddress" type="email" class="form-control" />
+        </div>
+
+        <div class="form-group col-md-12">
+          @Html.LabelFor(model => model.DateOfBirth, htmlAttributes: new { @class = "control-label col-md-2" })
+          <input name="DateOfBirth" type="datetime" class="form-control" />
+        </div>
+        <br />
+        <h4>Now, tell us about your car.</h4><br />
+        <div class="form-group col-md-12">
+          @Html.LabelFor(model => model.CarYear, htmlAttributes: new { @class = "control-label col-md-2" })
+          <input name="CarYear" type="number" class="form-control" />
+        </div>
+
+        <div class="form-group col-md-12">
+          @Html.LabelFor(model => model.CarMake, htmlAttributes: new { @class = "control-label col-md-2" })
+          <input name="CarMake" type="text" class="form-control" />
+        </div>
+
+        <div class="form-group col-md-12">
+          @Html.LabelFor(model => model.CarModel, htmlAttributes: new { @class = "control-label col-md-2" })
+          <input name="CarModel" type="text" class="form-control" />
+        </div>
+        <br />
+        <h4>Tell us about your driving record.</h4><br />
+        <div class="form-group col-md-12">
+          @Html.LabelFor(model => model.SpeedingTickets, htmlAttributes: new { @class = "control-label col-md-2" })
+          <input name="SpeedingTickets" type="number" class="form-control" />
+        </div>
+
+        <div class="form-check col-md-12">
+          @Html.LabelFor(model => model.DUI, htmlAttributes: new { @class = "control-label col-md-2" })
+          @Html.CheckBoxFor(model => model.DUI)
+          
+        </div>
+        <br />
+        <div>
+        <h4>Would you like to add comprehensive and collision coverage?</h4>
+        </div>
+        <div class="form-check col-md-12">
+          @Html.LabelFor(model => model.CoverageType, htmlAttributes: new { @class = "control-label col-md-2" })
+          @Html.CheckBoxFor(model => model.CoverageType)
+        </div>
+
+
+
+        <div class="col-md-5">
+          <button type="submit" class="btn btn-block btn-primary">Submit</button>
+        </div>
+      </div>
+      }
+    </div>
+  </div>
+</div>
+
+
