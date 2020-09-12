@@ -1,0 +1,7 @@
+C:\Users\Craig\Desktop\C#Projects\Const Variable Constructor Chain 230\obj\Debug\Const Variable Constructor Chain 230.csprojAssemblyReference.cache
+C:\Users\Craig\Desktop\C#Projects\Const Variable Constructor Chain 230\obj\Debug\Const Variable Constructor Chain 230.csproj.CoreCompileInputs.cache
+C:\Users\Craig\Desktop\C#Projects\Const Variable Constructor Chain 230\bin\Debug\Const Variable Constructor Chain 230.exe.config
+C:\Users\Craig\Desktop\C#Projects\Const Variable Constructor Chain 230\bin\Debug\Const Variable Constructor Chain 230.exe
+C:\Users\Craig\Desktop\C#Projects\Const Variable Constructor Chain 230\bin\Debug\Const Variable Constructor Chain 230.pdb
+C:\Users\Craig\Desktop\C#Projects\Const Variable Constructor Chain 230\obj\Debug\Const Variable Constructor Chain 230.exe
+C:\Users\Craig\Desktop\C#Projects\Const Variable Constructor Chain 230\obj\Debug\Const Variable Constructor Chain 230.pdb

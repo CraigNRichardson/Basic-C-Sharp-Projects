@@ -1,0 +1,7 @@
+C:\Users\Craig\Desktop\C#Projects\Enum 195\bin\Debug\Enum 195.exe.config
+C:\Users\Craig\Desktop\C#Projects\Enum 195\bin\Debug\Enum 195.exe
+C:\Users\Craig\Desktop\C#Projects\Enum 195\bin\Debug\Enum 195.pdb
+C:\Users\Craig\Desktop\C#Projects\Enum 195\obj\Debug\Enum 195.csprojAssemblyReference.cache
+C:\Users\Craig\Desktop\C#Projects\Enum 195\obj\Debug\Enum 195.csproj.CoreCompileInputs.cache
+C:\Users\Craig\Desktop\C#Projects\Enum 195\obj\Debug\Enum 195.exe
+C:\Users\Craig\Desktop\C#Projects\Enum 195\obj\Debug\Enum 195.pdb

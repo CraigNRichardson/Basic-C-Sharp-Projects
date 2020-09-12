@@ -1,0 +1,7 @@
+C:\Users\Craig\Desktop\C#Projects\LambdaExpressionsList_203\bin\Debug\LambdaExpressionsList_203.exe.config
+C:\Users\Craig\Desktop\C#Projects\LambdaExpressionsList_203\bin\Debug\LambdaExpressionsList_203.exe
+C:\Users\Craig\Desktop\C#Projects\LambdaExpressionsList_203\bin\Debug\LambdaExpressionsList_203.pdb
+C:\Users\Craig\Desktop\C#Projects\LambdaExpressionsList_203\obj\Debug\LambdaExpressionsList_203.csprojAssemblyReference.cache
+C:\Users\Craig\Desktop\C#Projects\LambdaExpressionsList_203\obj\Debug\LambdaExpressionsList_203.csproj.CoreCompileInputs.cache
+C:\Users\Craig\Desktop\C#Projects\LambdaExpressionsList_203\obj\Debug\LambdaExpressionsList_203.exe
+C:\Users\Craig\Desktop\C#Projects\LambdaExpressionsList_203\obj\Debug\LambdaExpressionsList_203.pdb

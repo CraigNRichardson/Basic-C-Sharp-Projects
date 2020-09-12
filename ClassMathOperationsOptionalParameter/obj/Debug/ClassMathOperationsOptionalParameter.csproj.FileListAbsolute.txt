@@ -1,0 +1,7 @@
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperationsOptionalParameter\bin\Debug\ClassMathOperationsOptionalParameter.exe.config
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperationsOptionalParameter\bin\Debug\ClassMathOperationsOptionalParameter.exe
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperationsOptionalParameter\bin\Debug\ClassMathOperationsOptionalParameter.pdb
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperationsOptionalParameter\obj\Debug\ClassMathOperationsOptionalParameter.csprojAssemblyReference.cache
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperationsOptionalParameter\obj\Debug\ClassMathOperationsOptionalParameter.csproj.CoreCompileInputs.cache
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperationsOptionalParameter\obj\Debug\ClassMathOperationsOptionalParameter.exe
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperationsOptionalParameter\obj\Debug\ClassMathOperationsOptionalParameter.pdb

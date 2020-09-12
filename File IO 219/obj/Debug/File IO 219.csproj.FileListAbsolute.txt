@@ -1,0 +1,6 @@
+C:\Users\Craig\source\repos\File IO 219\bin\Debug\File IO 219.exe.config
+C:\Users\Craig\source\repos\File IO 219\bin\Debug\File IO 219.exe
+C:\Users\Craig\source\repos\File IO 219\bin\Debug\File IO 219.pdb
+C:\Users\Craig\source\repos\File IO 219\obj\Debug\File IO 219.csproj.CoreCompileInputs.cache
+C:\Users\Craig\source\repos\File IO 219\obj\Debug\File IO 219.exe
+C:\Users\Craig\source\repos\File IO 219\obj\Debug\File IO 219.pdb

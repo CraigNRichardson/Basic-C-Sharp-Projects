@@ -92,93 +92,34 @@ namespace Iteration
             List<string> vicePresidents = new List<string>() { "John Adams", "Thomas Jefferson", "Aaron Burr", "George Clinton", "George Clinton", "Elbridge Gerry", "Daniel Tompkins", "John Calhoun",
             "John Calhoun" };
             Console.WriteLine("Enter the name of one of the first 7 Vice Presidents of the United States: ");
+
+            var a = 0;
             string vpChoice = Console.ReadLine();
-            int vp = vicePresidents.IndexOf(choice);
-            bool found2 = false;
-            foreach (string vicePresident in vicePresidents)
+            List<int> foundVicePresident = new List<int>() { };
+
+            if (vicePresidents.Contains(vpChoice))
             {
-                
-                if (vicePresident.Contains(choice))
+                foreach (var vicePresident in vicePresidents)
                 {
-                    Console.WriteLine(vp);
-                    found2 = true;
-                    break;
+                    if (vicePresident == vpChoice)
+                    {
+                        foundVicePresident.Add(a);
+                    }
+                    a++;
+                }
+
+                foreach (int k in foundVicePresident)
+                {
+                    Console.WriteLine(vpChoice + " index #: " + k);
                 }
             }
-
-
-
-
-
-
+            else
+            {
+                Console.WriteLine("Vice President name not found");
+            }
             Console.ReadLine();
+
             
-            
-            
-            
-            
-            //int[] testScores = { 98, 99, 85, 70, 82, 34, 91, 90, 94 };
-
-            //for (int i = 0; i < testScores.Length; i++)
-            //{
-            //    if (testScores[i] > 85)
-            //    {
-            //        Console.WriteLine("Passing test score: " + testScores[i]);
-            //    }
-            //}
-
-            //string[] names = { "Jesse", "Erik", "Daniel", "Adam" };
-
-            //for (int i = 0; i < names.Length; i++)
-            //{
-            //    if (names[i] == "Jesse")
-            //    {
-            //        Console.WriteLine(names[i]);
-            //    }
-            //    Console.WriteLine(names[i]);
-            //}
-
-            //List<int> testScores = new List<int>();
-            //testScores.Add(98);
-            //testScores.Add(99);
-            //testScores.Add(81);
-            //testScores.Add(72);
-            //testScores.Add(70);
-
-            //foreach (int score in testScores)
-            //{
-            //    if (score > 85)
-            //    {
-            //        Console.WriteLine("Passing test score:" + score);
-
-            //    }
-            //}
-
-            //List<string> names = new List<string>() { "Jesse", "Erik", "Adam", "Daniel" };
-
-            //foreach (string name in names)
-            //{
-            //    if (name == "Jesse")
-            //    {
-            //        Console.WriteLine(name);
-            //    }
-            //    Console.WriteLine(name);
-            //}
-
-            //List<int> testScores = new List<int>() { 98, 99, 12, 74, 23, 99 };
-            //List<int> passingScores = new List<int>();
-
-            //foreach (int score in testScores)
-            //{
-            //    if (score > 85)
-            //    {
-            //        passingScores.Add(score);
-            //    }
-
-            //}
-            //Console.WriteLine(passingScores.Count);
-
-            Console.ReadLine();
         }
     }
 }

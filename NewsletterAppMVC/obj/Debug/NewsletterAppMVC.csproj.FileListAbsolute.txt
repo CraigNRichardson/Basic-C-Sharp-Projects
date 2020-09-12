@@ -156,3 +156,10 @@ C:\Users\craig_6ok82wf\Documents\new c sharp projects\Basic-C-Sharp-Projects\New
 C:\Users\craig_6ok82wf\Documents\new c sharp projects\Basic-C-Sharp-Projects\NewsletterAppMVC\bin\Antlr3.Runtime.pdb
 C:\Users\craig_6ok82wf\Documents\new c sharp projects\Basic-C-Sharp-Projects\NewsletterAppMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\craig_6ok82wf\Documents\new c sharp projects\Basic-C-Sharp-Projects\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.CopyComplete
+<<<<<<< HEAD
+=======
+C:\Users\craig_6ok82wf\Documents\new c sharp projects\Basic-C-Sharp-Projects\NewsletterAppMVC\bin\EntityFramework.dll
+C:\Users\craig_6ok82wf\Documents\new c sharp projects\Basic-C-Sharp-Projects\NewsletterAppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\craig_6ok82wf\Documents\new c sharp projects\Basic-C-Sharp-Projects\NewsletterAppMVC\bin\EntityFramework.xml
+C:\Users\craig_6ok82wf\Documents\new c sharp projects\Basic-C-Sharp-Projects\NewsletterAppMVC\bin\EntityFramework.SqlServer.xml
+>>>>>>> 1214014379b7b9737db554533ee59c55e9f2aacd

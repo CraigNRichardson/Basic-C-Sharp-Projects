@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ﻿using System;
+=======
+﻿using NewsletterAppMVC.Models;
+using NewsletterAppMVC.ViewModels;
+using System;
+>>>>>>> 1214014379b7b9737db554533ee59c55e9f2aacd
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
@@ -9,6 +15,10 @@ namespace NewsletterAppMVC.Controllers
 {
     public class HomeController : Controller
     {
+<<<<<<< HEAD
+=======
+        private readonly string connectionString = @"Data Source=DESKTOP-D7O57FQ\SQLEXPRESS;Initial Catalog=Newsletter;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+>>>>>>> 1214014379b7b9737db554533ee59c55e9f2aacd
         public ActionResult Index()
         {
             return View();
@@ -23,6 +33,7 @@ namespace NewsletterAppMVC.Controllers
             }
             else
             {
+<<<<<<< HEAD
                 string connectionString = @"Data Source=DESKTOP-D7O57FQ\SQLEXPRESS;Initial Catalog=Newsletter;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
 
                 string queryString = @"INSERT INTO SignUps (FirstName, LastName, EmailAddress) VALUES
@@ -60,6 +71,47 @@ namespace NewsletterAppMVC.Controllers
             ViewBag.Message = "Your contact page.";
 
             return View();
+=======
+                using (NewsletterEntities db = new NewsletterEntities())
+                {
+                    var signup = new SignUp();
+                    signup.FirstName = firstName;
+                    signup.LastName = lastName;
+                    signup.EmailAddress = emailAddress;
+
+                    db.SignUps.Add(signup);
+                    db.SaveChanges();
+                }
+
+                return View("Success");
+            }
+        }
+        public ActionResult Admin()
+        {
+            using (NewsletterEntities db = new NewsletterEntities())
+            {
+                var signups = db.SignUps;
+                var signupVms = new List<SignupVm>();
+                foreach (var signup in signups)
+                {
+                    var signupVm = new SignupVm();
+                    signupVm.FirstName = signup.FirstName;
+                    signupVm.LastName = signup.LastName;
+                    signupVm.EmailAddress = signup.EmailAddress;
+                    signupVms.Add(signupVm);
+
+                }
+                return View(signupVms);
+            }
+            
+        }
+    }
+
+    internal class NewsletterEntities
+    {
+        public NewsletterEntities()
+        {
+>>>>>>> 1214014379b7b9737db554533ee59c55e9f2aacd
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\Craig\Desktop\C#Projects\Class Operator Overload 187\bin\Debug\Class Operator Overload 187.exe.config
+C:\Users\Craig\Desktop\C#Projects\Class Operator Overload 187\bin\Debug\Class Operator Overload 187.exe
+C:\Users\Craig\Desktop\C#Projects\Class Operator Overload 187\bin\Debug\Class Operator Overload 187.pdb
+C:\Users\Craig\Desktop\C#Projects\Class Operator Overload 187\obj\Debug\Class Operator Overload 187.csprojAssemblyReference.cache
+C:\Users\Craig\Desktop\C#Projects\Class Operator Overload 187\obj\Debug\Class Operator Overload 187.csproj.CoreCompileInputs.cache
+C:\Users\Craig\Desktop\C#Projects\Class Operator Overload 187\obj\Debug\Class Operator Overload 187.exe
+C:\Users\Craig\Desktop\C#Projects\Class Operator Overload 187\obj\Debug\Class Operator Overload 187.pdb

@@ -1,0 +1,7 @@
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperations2\bin\Debug\ClassMathOperations2.exe.config
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperations2\bin\Debug\ClassMathOperations2.exe
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperations2\bin\Debug\ClassMathOperations2.pdb
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperations2\obj\Debug\ClassMathOperations2.csprojAssemblyReference.cache
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperations2\obj\Debug\ClassMathOperations2.csproj.CoreCompileInputs.cache
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperations2\obj\Debug\ClassMathOperations2.exe
+C:\Users\Craig\Desktop\C#Projects\ClassMathOperations2\obj\Debug\ClassMathOperations2.pdb
