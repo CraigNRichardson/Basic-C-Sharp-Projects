@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.Design;
-using System.IO.Pipes;
-using System.Runtime.CompilerServices;
+
 
 namespace Iteration
 {
